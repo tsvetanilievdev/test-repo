@@ -1,3 +1,8 @@
-git add "file-name"
+firtst - git config --global user.name "...."
+       - git config --global user.email " ..@.."
+       - git config --list --->   
+
+get init ---> initialization of repositoty
+git add "file-name" // git add . --> stage all files
 git commit -m "some message..."
 git push
