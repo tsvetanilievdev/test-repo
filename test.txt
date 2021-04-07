@@ -5,4 +5,4 @@ firtst - git config --global user.name "...."
 get init ---> initialization of repositoty
 git add "file-name" // git add . --> stage all files
 git commit -m "some message..."
-git push
+git push --> adding the changes to the server of gitHub
